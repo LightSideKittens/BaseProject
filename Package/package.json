@@ -3,9 +3,13 @@
   "version": "1.0.0",
   "displayName": "Unity Art Module by Light Side",
   "description": "Contains necessary art resources and prefabs",
-  "unity": "2020.3",
+  "unity": "6000.0",
   "author": {
     "name": "Light Side LLC",
     "email": "cat@lightside.media"
+  },
+  "dependencies": {
+    "com.unity.addressables": "2.2.2",
+    "com.unity.localization": "1.5.2"
   }
 }
